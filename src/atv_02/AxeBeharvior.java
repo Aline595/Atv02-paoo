@@ -4,7 +4,7 @@ public class AxeBeharvior implements WeaponBeharvior {
 
     @Override
     public void useWeapon() {
-        // implements chopping with an axe
+        system.out.printl("Usando arma. ");
 
     }
 
