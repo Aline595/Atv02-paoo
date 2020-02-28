@@ -4,7 +4,7 @@ public class KnifeBeharvior implements WeaponBeharvior {
 
     @Override
     public void useWeapon() {
-        // implements cutting with a knife
+         System.out.printl("Usando arma. ");
 
     }
 
