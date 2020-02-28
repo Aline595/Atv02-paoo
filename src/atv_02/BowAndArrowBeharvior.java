@@ -4,7 +4,7 @@ public class BowAndArrowBeharvior implements WeaponBeharvior {
 
     @Override
     public void useWeapon() {
-        // implements shooting Arrow with a bow 
+         System.out.printl("Usando arma. ");
 
     }
 
