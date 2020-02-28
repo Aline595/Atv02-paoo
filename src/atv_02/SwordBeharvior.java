@@ -4,7 +4,7 @@ public class SwordBeharvior implements WeaponBeharvior {
 
     @Override
     public void useWeapon() {
-        // implements swinging a sword
+         System.out.printl("Usando arma. ");
 
     }
 
